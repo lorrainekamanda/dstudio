@@ -13,11 +13,6 @@
  * Form to collect comments
  * Social media links
  
- ### WELCOME TO DELANI STUDIO<br/>
- ![Delani Studio](/home/lorraine/Desktop/DelaniStudio/images/h_img.jpg)
-
-
-
 ## **Team;**<br/>
 The project was built with the help of Moringa school  of coding and their amazing team of Technical Mentors<br/>
 technical mentors these include;<br/>
@@ -52,7 +47,7 @@ if you run to a bug<br/>
 * Create a new branch (git branch gh-pages improve)<br/>
 * Make the appropiate changes<br/>
 * Add the changes<br/>
-* Commit Your changes ( git commit -m "improve portfolio")<br/>
+* Commit Your changes ( git commit -m "improve delani studio")<br/>
 * Push to the branch(git push -u origin gh-pages improve )<br/>
 
 ## **Licencing;**<br/>

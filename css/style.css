@@ -7,22 +7,21 @@
     align-self: auto;
     align-items: center;
     max-width: 100%;
-    
 }
 
 .row1{
- background-image: url(h_img.jpg);
-background-size: cover;
-background-repeat: no-repeat;
-height: 100%;
-padding-right: 0px;
-align-items: center;
-padding: 0%;
-height: 800px;
-font-family: 'Ubuntu';
-align-items: center;
-display: block;
-max-height: 100%;
+   background-image: url(../h_img.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100%;
+   padding-right: 0px;
+   align-items: center;
+   padding: 0%;
+   height: 800px;
+   font-family: 'Ubuntu';
+   align-items: center;
+   display: block;
+   max-height: 100%;
 
 }
  .welcome{
@@ -63,7 +62,7 @@ max-height: 100%;
     
 }
 .row4{
-    background-image: url(s_image.jpg);
+    background-image: url(../c_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-right: 0px;
@@ -95,7 +94,6 @@ max-height: 100%;
     padding-bottom: 40PX;
 
 }
-
 .col5{
     padding-bottom: 20px;
 }
@@ -105,8 +103,6 @@ body{
    margin: 0px; 
    align-items: center;
    margin: 40px;
-   
-  
 }
 #content{
     display: none;
@@ -115,8 +111,6 @@ body{
 #icon1{
     position: relative;
 }
-
-
 #design{
     padding-left: 0%;
     margin-left: 12px;
@@ -143,13 +137,11 @@ body{
     
     width: 100%;
     height: 100%;
-    
 }
 #img2{
     
     width: 100%;
     height: 100%;
-    
 }
 #img3{
     width: 100%;
@@ -159,7 +151,6 @@ body{
 #img4{
     width:100%;
 
-    
 }
 .row6{
     text-align: center;
@@ -219,8 +210,6 @@ body{
     background-repeat: no-repeat; 
     margin-top: 0px;
     padding: 0px;
-   
-
 }
 .col15{
     margin: 0px;
@@ -247,7 +236,6 @@ body{
     padding-top: 10px;
     height: 30px;
     margin-left: 50px;
-    
     margin-left: 40px;
 }
 #email{

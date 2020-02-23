@@ -1,0 +1,306 @@
+.container-fluid{
+    margin: 0px;
+    margin-right: 0%;
+    padding-right: 0%;
+    margin: 0px;
+    margin-right: 0px;
+    align-self: auto;
+    align-items: center;
+    max-width: 100%;
+    
+}
+
+.row1{
+ background-image: url(/home/lorraine/Desktop/DelaniStudio/images/h_img.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+padding-right: 0px;
+align-items: center;
+padding: 0%;
+height: 800px;
+font-family: 'Ubuntu';
+align-items: center;
+display: block;
+max-height: 100%;
+
+}
+ .welcome{
+    padding: 80px;
+    font-size: 40px;
+    padding-left: 485px; 
+    color: white;
+    padding-top: 350px;
+    font-family:'Ubuntu';
+    padding-top: 100px;
+    position: absolute;
+}
+#head0{
+    padding-left:150px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 24px;
+    align-items: center;
+}
+#mouse{
+    padding-left:320px ;
+    padding-top: 350px;
+}
+
+#people{
+    padding-top:0px;
+}
+.row2{
+    height: 60px;
+    padding-left: 450px;
+    
+}
+.row3{
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family: 'Ubuntu';
+    padding-bottom: 30px;
+    
+}
+.row4{
+    background-image: url(/home/lorraine/Desktop/DelaniStudio/images/s_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 350px;
+    color: white;
+    align-items: center;
+    font-family: 'Ubuntu';
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+#r4words{
+    text-align: center;
+    padding-left: 180px;
+    
+}
+#head1{
+    padding-top: 30px;
+    font-family: 'ubuntu';
+}
+.row5{
+    font-family: 'Ubuntu';
+    padding-bottom: 40PX;
+
+}
+
+.col5{
+    padding-bottom: 20px;
+}
+
+body{
+  margin: 0%;
+   margin: 0px; 
+   align-items: center;
+   margin: 40px;
+   
+  
+}
+#content{
+    display: none;
+    font-size: 14px;
+}
+#icon1{
+    position: relative;
+}
+
+
+#design{
+    padding-left: 0%;
+    margin-left: 12px;
+    font-size: 18px;
+}
+#development{
+    padding-left: 10px;
+}
+#content2{
+    display: none;
+    font-size: 14px;
+}
+#head1{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 26px;
+}
+#content3{
+    display: none;
+    font-size: 14px;
+}
+#img1{
+    
+    width: 100%;
+    height: 100%;
+    
+}
+#img2{
+    
+    width: 100%;
+    height: 100%;
+    
+}
+#img3{
+    width: 100%;
+    height: 100%;
+    
+}
+#img4{
+    width:100%;
+
+    
+}
+.row6{
+    text-align: center;
+    float: left;
+    padding-left: 0px; 
+    padding-bottom: 0px;
+    height: 230px;
+    padding-top:30px;
+    margin: 130px;
+    margin-bottom: 5px;
+    padding-top: 0px;
+    margin-top: 0px;
+   
+}
+#img5{
+     width: 100%;
+    
+}
+#img6{
+    width: 100%;
+    
+}
+#img7{
+    width: 100%;
+    
+}
+#img8{
+   width: 100%;
+    
+}
+.row7{
+    text-align: center;
+    float: left;
+    padding-left:5px; 
+    padding-top: 0px;
+    padding-bottom: 170px;
+    margin: 130px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+#contact{
+    color: white;
+    padding-top:150px ;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-family: 'Ubuntu';
+    margin-left: 370px;
+    padding-right: 250px;
+}
+.row8{
+    background-image: url(../images/c_image.jpg); 
+    height:800px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    margin-top: 0px;
+    padding: 0px;
+   
+
+}
+.col15{
+    margin: 0px;
+    padding-top: -15px;
+}
+.col16{
+    margin: 0px;
+    padding: 0px;
+}
+.col17{
+    margin: 0px;
+    padding: 0px;
+}
+#para{
+    font-family: 'Ubuntu';
+}
+#name{
+    background-color: transparent;
+    width: 450px;
+    color: white;
+    font-weight: 300px;
+    margin-top: 0px;
+    margin-top:0px ;
+    padding-top: 10px;
+    height: 30px;
+    margin-left: 50px;
+    
+    margin-left: 40px;
+}
+#email{
+    background-color: transparent;
+    width: 400px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 10px;
+
+}
+::placeholder{
+    color: white;
+    padding-top: 0%;
+}
+#message{
+    border: white solid 1px;
+    height: 250px;
+    width: 900px;
+    padding-left: 100px;
+    margin-left: 170px;
+    background-color: transparent;
+    text-align: left;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+
+.row9{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 200px;
+    margin: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.col12{
+    padding-right: 0px;
+}
+.col13{
+    padding: 0px;
+}
+footer{
+    font-family: 'Ubuntu';
+}
+.box{
+    height: 170px;
+    width: 800px;
+    border: orange solid;
+    padding: 200px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 200px;
+    margin-right: 20px;
+    padding-left: 100px;
+}

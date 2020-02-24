@@ -237,22 +237,16 @@ body{
 }
 #name{
     background-color: transparent;
-    width: 450px;
-    color: white;
-    font-weight: 300px;
-    margin-top: 0px;
-    margin-top:0px ;
-    padding-top: 10px;
-    height: 30px;
-    margin-left: 50px;
-    margin-left: 40px;
+     width: 450px;
+     height: 30px;
+    
 }
 #email{
     background-color: transparent;
-    width: 400px;
+     width: 400px;
     height: 30px;
-    margin-top: 0px;
-    margin-left: 10px;
+    /* margin-top: 0px;
+    margin-left: 10px;  */
 
 }
 ::placeholder{
@@ -261,15 +255,10 @@ body{
 }
 #message{
     border: white solid 1px;
+    background-color: transparent;
     height: 250px;
     width: 900px;
-    padding-left: 100px;
-    margin-left: 170px;
-    background-color: transparent;
-    text-align: left;
-    padding-top: 0px;
-    margin-top: 0px;
-
+   
 }
 
 .row9{
@@ -288,5 +277,15 @@ body{
     padding: 0px;
 }
 footer{
+    font-family: 'Ubuntu';
+}
+.border{
+    display: inline-table;
+    background-color: transparent;
+    margin-left: 120px;
+}
+#contact{
+    color: white;
+    margin-top: 5px;
     font-family: 'Ubuntu';
 }

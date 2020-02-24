@@ -26,6 +26,10 @@ $("#content3").click(function(){
   $("#icon3").toggle()
   $("#content3").toggle()
 })
+$("#view zoom overlay").hover(function(){
+  $("p").toggle()
+})
+
 
   
 })
